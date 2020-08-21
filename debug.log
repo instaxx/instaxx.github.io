@@ -1,0 +1,17 @@
+[0818/111533.394:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/111533.410:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0818/111533.413:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/111930.426:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/111930.449:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0818/111930.453:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/112110.863:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/112110.869:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0818/112110.887:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0818/112110.890:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/112123.924:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0818/112123.929:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0818/112123.935:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0818/112123.939:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0821/195455.007:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0821/195455.021:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0821/195455.025:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Asep Muhammad Nurdin\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
