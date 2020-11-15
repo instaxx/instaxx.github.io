@@ -1,2 +1,0 @@
-# iphonex_landingpage
-# promoads
